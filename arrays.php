@@ -98,5 +98,7 @@ $names = [
 list($anna, $maria, $katya) = $names;
 echo '<pre>';
 var_dump($anna);
+
 var_dump($maria);
 var_dump($katya);
+

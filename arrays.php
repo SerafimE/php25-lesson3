@@ -95,7 +95,7 @@ $names = [
 //$maria = $names[1];
 //$katya = $names[2];
 
-list($anna, $maria, $katya) = $names;
+list($anna,  $maria, $katya) = $names;
 echo '<pre>';
 var_dump($anna);
 
